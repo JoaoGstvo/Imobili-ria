@@ -1,11 +1,11 @@
 .landing-page {
 
-    .section-temporario {
+    .section-propaganda {
         height: 45vh;
         width: 100%;
         
 
-        .temporario {
+        .propaganda {
             background-color: rgb(57, 55, 55);
             width: 100%;
             height: 100%;
@@ -19,7 +19,8 @@
         align-items: center;
         justify-content: space-around;
         height: 5em;
-        /* border-bottom: 1px solid black; */
+        margin-bottom: 2.5em;
+        border-bottom: 1px solid black;
     
 
 
@@ -36,5 +37,12 @@
         font-size: 1em;
         color: white;
     }
+
+    .section-card-maisvisto {
+        padding-left: 2em;
+        border: 1px solid black;
+        
+    }
+    
 }
 }
